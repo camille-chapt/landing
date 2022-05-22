@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins&display=swap');
+@import url('components/container.css');
+@import url('components/button.css');
+@import url('components/banner.css');
+@import url('components/class-cards.css');
+@import url('components/subject-cards.css');
+
+body {
+	background-color: ;
+	font-family: 'Poppins', serif;
+	font-size: 18px;
+	margin: 0px;
+	background-color: rgb(247,247,247);
+}
+h1,h2,h3 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
+i { 
+	font-size: 40px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 10px;
+	font-weight: lighter;
+	color: darkblue;
+}

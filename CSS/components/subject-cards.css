@@ -1,0 +1,25 @@
+.subject-cards {
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: 80px;
+}
+
+
+.subject-card {
+	padding: 15px;
+	display: inline;
+	text-align: center;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	border-radius: 6px;
+	margin: 10px;
+	flex-basis: 150px;
+	flex-grow: 1;
+}
+
+}
+.subject-card h3 {
+	flex-grow: 1;
+	font-size: 18px;
+	padding-right: 30px;
+}
